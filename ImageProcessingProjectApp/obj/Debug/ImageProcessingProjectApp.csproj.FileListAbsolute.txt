@@ -1,0 +1,314 @@
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojResolveAssemblyReference.cache
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.FormPrPNI.resources
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.Cache
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+D:\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojResolveAssemblyReference.cache
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.FormPrPNI.resources
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.Cache
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\ImageProcessingProjectApp\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojResolveAssemblyReference.cache
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.FormPrPNI.resources
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.Cache
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+E:\_MyCloudsDrive\OneDrive - Technical University of Cluj-Napoca\DidacticUTCN\MaterialePNI\ProiectPNI\VersiuniCodProgramBaza\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojAssemblyReference.cache
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.FormPrPNI.resources
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.cache
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CopyComplete
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojAssemblyReference.cache
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.FormPrPNI.resources
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.cache
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CopyComplete
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+C:\Users\LabsComputerVision\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojAssemblyReference.cache
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.cache
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CopyComplete
+C:\Users\sergiu\Desktop\readuserji\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Clahe.resources
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojAssemblyReference.cache
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Clahe.resources
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.cache
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CoreCompileInputs.cache
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CopyComplete
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+C:\Users\sergiu\Desktop\PROIECT\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\concrt140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\cvextern.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\msvcp140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\opencv_ffmpeg343_64.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x64\vcruntime140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\concrt140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\cvextern.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\msvcp140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\opencv_ffmpeg343.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\x86\vcruntime140.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe.config
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.exe
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ImageProcessingProjectApp.pdb
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.UI.xml
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\Emgu.CV.World.xml
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ZedGraph.xml
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\de\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\es\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\fr\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\hu\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\it\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ja\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\pt\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\ru\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sk\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\sv\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\tr\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csprojAssemblyReference.cache
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Clahe.resources
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.Properties.Resources.resources
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.GenerateResource.cache
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CoreCompileInputs.cache
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.csproj.CopyComplete
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.exe
+F:\Learning\Proiect pni\ImageProcessingProjectAppEmgu\ImageProcessingProjectApp\obj\Debug\ImageProcessingProjectApp.pdb
